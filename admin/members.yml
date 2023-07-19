@@ -1,0 +1,11 @@
+# List the membership of this group.  (Remove entries if you have fewer
+# than three members.)
+#
+
+members:
+  - name: Zhilin Zhang
+    uid: u7323177
+  - name: Sineeha Kodwani
+    uid: u7230574
+  - name: Aidan Soo
+    uid: u7123983
